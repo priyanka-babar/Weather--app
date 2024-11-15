@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <h2>hello priyanka babar</h2>
-      <h3> welcome</h3>
+      <h3> welcome to my app</h3>
       <Weather/>
        
     </>
